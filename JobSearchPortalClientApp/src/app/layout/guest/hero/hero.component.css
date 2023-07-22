@@ -1,0 +1,29 @@
+.hero-section{
+    padding: 12em 8em;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image:  url('../../../../assets/images/hero.jpg') ;
+    width: 100%;
+}
+
+#search-jobs-title{
+    font-weight: 400;
+    font-size: 3.5rem;
+    color: white;
+}
+
+#search-jobs-input{
+    font-size: 1.1rem;
+    padding: 0.5em;
+}
+
+#search-jobs-btn{
+    font-size: 1.1rem;
+    padding:0.5em;
+}
+
+#search-jobs-form{
+    margin-top: 1em;
+}
+

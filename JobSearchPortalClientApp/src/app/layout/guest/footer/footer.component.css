@@ -1,0 +1,35 @@
+ul{
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    padding:0.5em 0em;
+    font-size: 1.3rem;
+}
+
+.footer-section{
+    background: #0d0d0d;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-container{
+    padding:4em 4em;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.sub-footer-1, .sub-footer-2, .sub-footer-3{
+    flex-basis: 25%;
+    
+}
+.sub-footer-1 p, .sub-footer-2 p , .sub-footer-3 p{
+    color:white;
+    font-size: 1.8rem;
+    font-weight: 550;
+}
+
+@media (max-width:950px){
+    .footer-container{
+        flex-direction: column;
+    }
+}

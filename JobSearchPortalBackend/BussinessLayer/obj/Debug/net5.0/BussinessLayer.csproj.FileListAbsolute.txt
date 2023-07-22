@@ -1,0 +1,17 @@
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\BussinessLayer.deps.json
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\BussinessLayer.dll
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\ref\BussinessLayer.dll
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\BussinessLayer.pdb
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\Shared.dll
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\bin\Debug\net5.0\Shared.pdb
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.CopyComplete
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.dll
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\ref\BussinessLayer.dll
+C:\Users\Hussain Khan\Desktop\test\Job-Search-Portal-\JobSearchPortalBackend\BussinessLayer\obj\Debug\net5.0\BussinessLayer.pdb

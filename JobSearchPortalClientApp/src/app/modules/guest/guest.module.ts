@@ -5,7 +5,8 @@ import { GuestRoutingModule } from './guest-routing.module';
 
 
 @NgModule({
-  declarations: [],
+  declarations: [
+  ],
   imports: [
     CommonModule,
     GuestRoutingModule
